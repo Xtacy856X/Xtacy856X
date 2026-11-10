@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="Kappa Sigma" width="100%">
+<img src="banner.svg" alt="Rest In Bit" width="100%">
 
 <h4 align="center">Patches in <a href="https://github.com/anomalyco/opencode">opencode</a>, <a href="https://github.com/nyx-space/hifitime">hifitime</a> and the <a href="https://github.com/ps5-payload-dev/sdk">PS5 payload SDK</a></h4>
 <h4 align="center">Merged so far: <a href="https://github.com/nyx-space/hifitime/pull/530">saturation in Duration arithmetic</a> and <a href="https://github.com/ps5-payload-dev/sdk/pull/79">a missing include that broke PS5 SDK builds on clang</a></h4>
@@ -42,7 +42,7 @@
 - Godot games and small HTML5 toys, because sometimes you want to watch the thing move
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Kappa+Sigma&color=22D3EE" alt="Kappa Sigma" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Rest+In+Bit&color=22D3EE" alt="Rest In Bit" /></a>
   <a href="https://github.com/Xtacy856X"><img src="https://readme-typing-svg.demolab.com/?lines=Rust%2C+TypeScript%2C+Go%2C+C;PS5+homebrew+and+firmware;fixing+the+boring+bugs+that+matter&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
