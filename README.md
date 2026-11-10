@@ -25,7 +25,7 @@
     <img width="48%" src="https://streak-stats.demolab.com?user=Xtacy856X&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Xtacy856X streak" />
   </a>
   <a href="https://github.com/Xtacy856X?tab=repositories">
-    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Xtacy856X&layout=compact&theme=gotham&count_private=true&hide_border=true" alt="top languages" />
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xtacy856X&theme=github_dark" alt="most used languages by commit" />
   </a>
 </p>
 
