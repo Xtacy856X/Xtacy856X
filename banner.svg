@@ -24,7 +24,7 @@
 
   <g font-family="'JetBrains Mono','Fira Code',Consolas,monospace">
     <text x="60" y="118" font-size="56" font-weight="700" fill="url(#name)" letter-spacing="3">REST IN BIT</text>
-    <text x="62" y="162" font-size="19" fill="#94a3b8">AI, debugging, PS5 homebrew, time scales</text>
+    <text x="62" y="162" font-size="19" fill="#94a3b8">AI, debugging</text>
     <text x="62" y="206" font-size="15" fill="#64748b">&gt; patches for opencode, hifitime and the PS5 payload SDK</text>
   </g>
 
