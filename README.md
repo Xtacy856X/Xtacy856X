@@ -2,7 +2,7 @@
 
 <h4 align="center">Patches in <a href="https://github.com/anomalyco/opencode">opencode</a>, <a href="https://github.com/nyx-space/hifitime">hifitime</a> and the <a href="https://github.com/ps5-payload-dev/sdk">PS5 payload SDK</a></h4>
 <h4 align="center">Merged so far: <a href="https://github.com/nyx-space/hifitime/pull/530">saturation in Duration arithmetic</a> and <a href="https://github.com/ps5-payload-dev/sdk/pull/79">a missing include that broke PS5 SDK builds on clang</a></h4>
-<h4 align="center">Building <a href="https://github.com/Xtacy856X/Daedalus">Daedalus</a>, a Rust workspace manager for humans and AI agents</h4>
+<h4 align="center">Debugging <a href="https://github.com/Xtacy856X/Daedalus">Daedalus</a>, a Rust workspace manager for humans and AI agents</h4>
 
 <p align="center">
   <a href="https://github.com/Xtacy856X?tab=followers"><img src="https://img.shields.io/github/followers/Xtacy856X?label=Followers&style=social" alt="followers"></a>
